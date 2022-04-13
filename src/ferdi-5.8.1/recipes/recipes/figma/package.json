@@ -1,9 +1,0 @@
-{
-  "id": "figma",
-  "name": "Figma",
-  "version": "1.0.4",
-  "license": "MIT",
-  "config": {
-    "serviceURL": "https://figma.com"
-  }
-}
