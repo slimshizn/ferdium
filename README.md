@@ -9,7 +9,23 @@
     </a>
 </p>
 
-# Ferdi
+# Ferdium
+
+<h3>
+    Official project Ferdium can be found here: https://github.com/ferdium
+</h3>
+    
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
 
 <p>
 <a href="https://github.com/getferdi/ferdi/actions/workflows/builds.yml"><img alt="Build Status" src="https://github.com/getferdi/ferdi/actions/workflows/builds.yml/badge.svg?branch=develop&event=push"></a>
