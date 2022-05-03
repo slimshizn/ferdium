@@ -1,11 +1,11 @@
 <p align="center" dir="auto">
     <a href="https://ferdium.org" rel="nofollow">
-      <img src="/ferdium/ferdium-app/raw/develop/build-helpers/images/icon.png" alt="" width="250" style="max-width: 100%;">
+      <img src="https://github.com/ferdium/ferdium-app/raw/develop/build-helpers/images/icon.png" alt="" width="250" style="max-width: 100%;">
     </a>
 </p>
 <p align="center" dir="auto">
     <a href="https://ferdium.org/download" rel="nofollow">
-      <img src="/ferdium/ferdium-app/raw/develop/branding/download.png" alt="Download" width="150" style="max-width: 100%;">
+      <img src="https://github.com/ferdium/ferdium-app/raw/develop/branding/download.png" alt="Download" width="150" style="max-width: 100%;">
     </a>
 </p>
 
